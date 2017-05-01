@@ -4,7 +4,7 @@
 **Will we import from shopertrack to LastSixWeeks Traffic?**
   * Will we run ssis job to do this?
   * Will minimize api calls
-   * is there a limit on api calls
+    * is there a limit on api calls
   
   
 **What does line # mean in PercentOfDaily total?**
