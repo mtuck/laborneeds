@@ -25,5 +25,5 @@
 **Should we store more than one week in percentOfDaily and weekly total?**
    * we would need to add week id field 
    
-**Are we using percent of weekly total?**
+**Are we using percent of daily total?**
    
